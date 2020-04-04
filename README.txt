@@ -23,6 +23,7 @@ Workflow:
         git push -> pushes it to the final Repo
         git checkout -b "name" -> is what I used to create the "HOME" branch then i pushd to that
         mv file1 dir1 -> this moves file1 into dir1
+        mv file1 file2 -> renames file1 to file2 
 
     Work PC: 
         git pull origin HOME -> grabs data that has been pushed from user chritsv (home)

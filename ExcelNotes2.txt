@@ -1,0 +1,32 @@
+Want dates after 2/10/2020
+
+To see if youre in a pivot table (top)
+
+
+insert chart
+	click into pivot table.
+	insert. 
+	pivot chart
+
+
+create a slicer:
+	analyze
+	insert slicers
+
+Filter connections:
+	Click into pivot table
+	Analyze
+	filter connections
+
+
+the glass looking icon means its a filter
+
+there are projects that dont have no jira connnectin = 0 in JiraprojectID
+You are only awared that project if YOU are the most build for that week
+0 = no jira connection, because the project number is crazy stupid 
+
+the hours shown in "sum of hours" are a TOTAL of everyone. but youre awarded that project if you billed the most
+
+
+"minimal viable product" 
+

@@ -1,0 +1,49 @@
+step 1: figure out excel
+
+	Teams:
+		project number : PXXXXXX (look up tales have to be unique). 
+			go to pviot talbes. Click refresh
+			Theres a master list, next to the toggle list (no way to remove from tables here, use columns to help), which re renders the 			main table. These are "linked tables"
+
+percent change = bug rate before Okr - Bug rate since okr
+ 
+
+to see formulas:
+	power pivor -> measures
+
+Issues => query from JIRa
+Timesheets => Query from polaris 
+
+caviots: certain numbers get named weird so some project numbers maybe harder to find 
+
+
+Ideal React application: 
+	timesheets
+	write/read from JIRA
+
+
+1.) learn the stuff
+2.) write instructions in a worksheet
+3.) drop in everyone general OKR
+4.) shoot out an email
+5.) Drop it in general also for questions
+
+on the side we can write down ideas for React component. basing it off his Excel
+
+Do a rought draft and ideas for components
+
+
+
+1.) place in OKR General
+2.) send an email
+
+
+If you select Refresh ALL the "Bug total" worksheet will cause an error. Then itll ask you if you like to keep going, then say yes.
+
+
+
+
+Hey Team, Cooper has created a tool for us to check our Bug rate progression per project. In the excel attached in the tabs above you can download the Excel tool! The instructions on how to use will be in the "Instructions" worksheet! 
+
+If you have any question after reading that page please ask below!
+If you have any other niches that we didn't notice please let us know!

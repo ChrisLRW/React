@@ -1,0 +1,13 @@
+Type Employee Name (pull from Polaris)
+	Shows your hours logged (that you put in Polaris)
+	Shows your projects. 
+		Click project
+			Shows bugs in project (render red etc...) (pulls from JIRA)
+
+
+
+'==================================================
+
+
+React Components:
+	Main

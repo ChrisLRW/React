@@ -34,3 +34,21 @@ Workflow:
         git pull origin MASTER -> grabs the latest data from the master (which was pushed by: chrisLRW)
         git push origin HOME -> pushes to "HOME" branch since (for some reason i.e no credentials not sure)
             I cant push to master from: christsv. 
+
+
+4.7.2020:
+
+    create-react-app : you can create a local dev enviorenment using a single command in node.
+        no need to learn new APIs (good - quick and bad - not learning)
+    index.js: is the main renderer. Things are declared globally
+
+
+    i -> install
+    npm -> node package manager
+    npx -> node package executable
+    npx create-react-app name -> instead of manually maintaing new updates with npm. npx grabs the most recent
+        release of "create-react-app" in the npm registry. it will download a new one when u run it again
+        it is essentiall installing dependancies: react, react-dom, react-scripts
+    npm start - starts the dev server
+    npm run eject - removes this tool and copies all the internal dependances (cant go back). 
+        basically it unhides all the imports in config folder.

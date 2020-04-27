@@ -95,3 +95,34 @@ Workflow:
         pacakge.json:
             dependancies: main ones. shows up in production server
             devDependancies: these will not show up in the production server. 
+
+
+4.10.2020:
+
+    To configure ES Lint we created ".eslintsrc.js" and copy pasted the json export from    
+    jscomples.com/reactful
+
+    Directory structure (which you dont have to do but is but is good because this is what webpack uses):
+        fulljs/
+            dist/  (distribution)
+                main.js
+            src/   (source)
+                index.js
+                components/
+                App.js
+                server/
+                server.js
+
+4.14.2020:
+
+    "jest" and "prettier" are other dependancies that we should have in our configuration/stack
+    Refer to video or website.
+
+    babel.config.js : grabbed from jscomplete.com/reactful. 
+        this object instructs babel to use the presets pasted in babel.config.js
+    
+    webpack.config.js: this config tells webpack to invoke babel "babel-loadeR" on any file that involes js "/\.js5/,"
+    
+
+
+

@@ -11,3 +11,8 @@ Type Employee Name (pull from Polaris)
 
 React Components:
 	Main
+
+Assignment: 
+
+	have an object with my name and some data and display it when someone types my name in an input box
+	
